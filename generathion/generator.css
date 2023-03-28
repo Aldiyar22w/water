@@ -1,0 +1,31 @@
+body{
+    font-family: 'Kanit', sans-serif;
+}
+.container{
+   text-align: center;
+   border: 1px solid black;
+}
+#quote{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 31.58px;
+
+}
+#quoteAuthor{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 68.11px;
+
+}
+#button{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 35.08px;
+    margin: 10px;
+    color: white;
+    background: linear-gradient(132.95deg, #2c5788 9.31%, #322472 79.4%);
+    border-radius: 10px;
+    padding: 11px 37px;
+    border: none;
+
+}

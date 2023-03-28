@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+   margin: 0; 
+}
+.container{
+    width: 100%;
+    max-width:1280px ;
+    margin: 0 auto;
+}
+
+.header{
+    background-image: url(./photolike/1626739220_8-kartinkin-com-p-kalkulyator-fon-krasivo-9.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header-inner{
+    padding-top:52px ;
+justify-content: space-around;
+display: flex;
+align-items: center;
+ 
+}
+.nav-item{
+    color: #ffff;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 35.08px;
+    font-family: 'Montserrat', sans-serif;
+    margin-right: 25px;
+    
+   
+}
+.header-down h2{
+    color: white;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 68.11px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    padding-bottom: 40px;
+}
+.header-down p{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 31.58px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.header-down{
+    text-align: center;
+    padding-top:300px;
+}
+.btn button{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 35.08px;
+}
+
+.calc-inner h1 {
+    padding-bottom: 28px;
+    padding-top: 80px;
+   font-size: 48px;
+   font-weight: 700;
+   line-height: 68.11px;
+   font-family: 'Montserrat', sans-serif;
+   color: black;
+   text-align: center;
+   letter-spacing: 2%;
+}
+.calc-inner p{
+    color: black;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32.78px;
+    letter-spacing: 2%;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding-bottom: 52px;
+}
+
+
+.calcult{
+    position: absolute;
+    right: 818px;
+
+    padding-bottom: 100px;
+}
+
+.calculator{
+    border: none;
+    border: 1px solid black;
+    background-color: rgb(14, 14, 14);
+    border-radius: 10px;
+    width: 282px;
+    height: 335px;
+   
+
+
+    
+}
+.calc{
+    padding-top: 10px;
+    text-align: center;
+}
+p{
+    color: white;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    font-family: 'Cabin', sans-serif;
+}
+input{
+    height: 26px;
+    border: none;
+    border: 1px solid rgb(172, 172, 172);
+    border-radius: 10px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    font-family: 'Cabin', sans-serif;
+}
+button{
+    border: none;
+    border: 1px solid rgb(173, 113, 0);
+    color: white;
+    background-color: rgb(202, 131, 0);
+    border-radius: 10px;
+    padding: 1px 12px;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+    font-family: 'Cabin', sans-serif;
+}
+.aldik-inner{
+    padding-top: 370px;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    justify-content: space-around;
+}

@@ -1,0 +1,23 @@
+body{
+    font-family: 'Kanit', sans-serif;
+}
+#input{
+    margin: 0;
+    padding: 10px;
+    width: 400px;
+    height: 26px;
+    border-radius:10px ;
+    border: 1px solid rgb(170, 170, 170);
+}
+#button{
+    width: 149px;
+    height: 45px;
+    margin: 0;
+    background: linear-gradient(132.95deg, #1237da 9.31%, #692666 79.4%);
+    border-radius: 10px;
+    border: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 35.08px;
+}
